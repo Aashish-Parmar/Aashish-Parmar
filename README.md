@@ -1,5 +1,5 @@
 # 💫 About Me:
-:
+
 
 🔭 I’m currently working on building a full-stack food delivery system that connects home chefs with customers, using React.js, Node.js, Express.js, and PostgreSQL.
 
