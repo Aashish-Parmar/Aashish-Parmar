@@ -1,5 +1,5 @@
 # 💫 About Me:
-:<br><br>🔭 I’m currently working on building a full-stack food delivery system that connects home chefs with customers, using React.js, Node.js, Express.js, and PostgreSQL.<br><br>👯 I’m looking to collaborate on full-stack MERN or PERN-based projects, especially those that solve real-world problems and involve multiple user roles.<br><br>🤝 I’m looking for help with building scalable role-based authentication systems and integrating advanced features like real-time order tracking.<br><br>🌱 I’m currently learning React-Redux, advanced Node.js, and PostgreSQL relational design to strengthen my full-stack development skills.<br><br>💬 Ask me about React.js basics, frontend interview preparation, or building beginner-friendly full-stack apps.<br><br>⚡ Fun fact: I believe the best tech projects come from solving everyday problems—like getting warm, homemade food to your doorstep from local chefs!<br><br>
+<br><br>🔭 I’m currently working on building a full-stack food delivery system that connects home chefs with customers, using React.js, Node.js, Express.js, and PostgreSQL.<br><br>👯 I’m looking to collaborate on full-stack MERN or PERN-based projects, especially those that solve real-world problems and involve multiple user roles.<br><br>🤝 I’m looking for help with building scalable role-based authentication systems and integrating advanced features like real-time order tracking.<br><br>🌱 I’m currently learning React-Redux, advanced Node.js, and PostgreSQL relational design to strengthen my full-stack development skills.<br><br>💬 Ask me about React.js basics, frontend interview preparation, or building beginner-friendly full-stack apps.<br><br>⚡ Fun fact: I believe the best tech projects come from solving everyday problems—like getting warm, homemade food to your doorstep from local chefs!<br><br>
 
 
 ## 🌐 Socials:
@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/Aashish_Parmar_123/)
 
 [![](https://visitcount.itsvg.in/api?id=Aashish-Parmar&icon=1&color=0)](https://visitcount.itsvg.in)
 
