@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Aashish_Parmar_123/)
+![Leetcode Stats](https://leetcode.com/u/Aashish_Parmar_123/)
 
 [![](https://visitcount.itsvg.in/api?id=Aashish-Parmar&icon=1&color=0)](https://visitcount.itsvg.in)
 
